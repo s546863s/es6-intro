@@ -23,3 +23,6 @@ const student = {
 student.name = 'Jane';
 student.age = 30;
 console.log(student);
+
+
+
